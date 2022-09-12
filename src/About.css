@@ -1,0 +1,16 @@
+.about{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    width: auto;
+}
+
+.about .abouttext{
+    margin-top: 50px;
+}
+
+.about .aboutimage img{
+    width: 500px;
+    height: 300px;
+}
