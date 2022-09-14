@@ -5,7 +5,7 @@ export default function BooksContainer() {
   const [books, setBooks] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:9292/books')
+    fetch('https://access-library.herokuapp.com/books')
       .then((res) => res.json())
       .then((data) => setBooks(data));
   }, []);

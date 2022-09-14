@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import React, { useState } from 'react';
 
-const bookAPI = " http://localhost:9292/books";
+const bookAPI = 'https://access-library.herokuapp.com/books';
 
 function Book({ book, removeBook}) {
   const { title, genre, price } = book;
