@@ -1,4 +1,5 @@
 import React from "react";
+import image1 from "./images/image.jpg"
 
 function Home(){
     return(
@@ -9,7 +10,7 @@ function Home(){
                 </div>
                 <div className="getstarted">
                     <h2>Learn Now and Master Your Art</h2>
-                    <img src="./images/glasses-1052010_1920.jpg" alt=" " />
+                    <img src={image1} alt=" library image" />
                     <p><button id="btn">Read Books</button></p>
                 </div>
             </div>

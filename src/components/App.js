@@ -1,14 +1,15 @@
 import React from "react";
-import Main from "./components/Main";
-import NavBar from "./components/NavBar";
-import "./components/style.css";
+import Home from "./Home"
+// import Main from "./components/Main";
+import NavBar from "./NavBar";
+// import "./style.css";
 import { Route, Switch } from "react-router-dom";
-import ReadWelcome from "./components/ReadWelcome";
-import About from "./components/About";
-import Home from "./components/Home";
-import Form from "./components/Form";
+// import ReadWelcome from "./components/ReadWelcome";
+import About from "./About";
+// import Home from "../../public/Home";
+import Form from "./Form";
 import { useState } from "react";
-import BooksContainer from "./components/BooksContainer";
+import BooksContainer from "./BooksContainer";
 
 function App() {
  
