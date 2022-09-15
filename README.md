@@ -1,71 +1,53 @@
-# Getting Started with Create React App
+# E-ACCESS LIBRARY
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+By :Purity Mwaura
 
-## Available Scripts
+Table of content
+a) description
+b)features
+c)live link
+d)tech used
+e) authors informatiion
 
-In the project directory, you can run:
 
-### `npm start`
+#Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+.Its a react web application with ruby as its backend and react frontend.it also uses local API made using Ruby sinatra thats available for use.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1) first once you log in the website page ,you will be able to access any type of book you need.
 
-### `npm run build`
+2) also you can check the price of the book below and  a small descriptiion of the book .
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3)lastly if you want you can add a new book at the form which will include the prices and you can also upload a book.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#Live link
 
-### `npm run eject`
+clone to the repo 
+https://github.com/puritymwaura/e-access-library-frontend -this is the repo for the frontend and its live link below..
+http://e-access-library-frontend.vercel.app
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+for the backend here is the github repo : 
+https://github.com/puritymwaura/e-access-library-b
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#Tech used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1) HTML -A hypertext markup language used for displaying documents design displayed at web browser.
+2) css -a styling language used with HTML for styling.
+3)React JS- it helps render the DOM fetch data to the API.
+4)Ruby - the main language the used with sinatra to create a database API which we used to fetch data.
 
-## Learn More
+#Licence
+MIT licence copyright(c)2022 Purity mwaura.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#Authors information
 
-### Code Splitting
+linkedln - purity mwaura.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# e-access-books
