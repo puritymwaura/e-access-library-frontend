@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css"
 import Home from "./Home"
 // import Main from "./components/Main";
 import NavBar from "./NavBar";
@@ -14,7 +15,7 @@ import BooksContainer from "./BooksContainer";
 function App() {
  
   return (
-    <div class='container-fluid'>
+    <div class='container'>
       <NavBar />
       <Switch>
         <Route exact path='/home'>
